@@ -1,6 +1,7 @@
 # Arc1X-ENV-Full
 
 11/5/2024
+===
 Begin AI (open devin) Code-Engineer Build.
 Status : WIP
 Using Visual Studio and Docker OpenDevin with Ollama/llama3 model
