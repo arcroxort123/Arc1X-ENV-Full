@@ -3,9 +3,12 @@
 11/5/2024
 ===
 Begin AI (open devin) Code-Engineer Build.
+
 Status : WIP
+
 Using Visual Studio and Docker OpenDevin with Ollama/llama3 model
-(step down to llama3:7b for faster results)
+
+(step down to llama3.2:3b for faster results)
 
 I am using Arc1x-Distro files to rebuild as Code (working or not) and putting in conversation files in an attempt to quickly build a first pass.
 It will likely be very broken and at times not working or just plain wrong, because I want to try to surmount it on my own, it will be just AI-built.
