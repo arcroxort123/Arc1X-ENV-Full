@@ -9,6 +9,8 @@ Status : WIP
 Using Visual Studio and Docker OpenDevin with Ollama/llama3 model
 
 (step down to llama3.2:3b for faster results)
+llama3.2:3b-instruct-q8_0
+llama3.2:70b if you got a $10k PC.
 
 I am using Arc1x-Distro files to rebuild as Code (working or not) and putting in conversation files in an attempt to quickly build a first pass.
 It will likely be very broken and at times not working or just plain wrong, because I want to try to surmount it on my own, it will be just AI-built.
