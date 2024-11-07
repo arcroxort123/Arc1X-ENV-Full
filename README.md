@@ -24,3 +24,7 @@ I will try to keep it organized. I don't know what will come out of the AI-assis
 
 I am trying to use BOLT.new with Ollama because I am tired of OpenDevin. But I dunno if I can get it to work like I did with Opendevin. I am tired of thinking but I will find out sooner or later.
 By the way I calculated that the project at 100k lines with each having 4-8 attempts, or being broken up into a million prompts. Well that would take me like a year and a half to do if it was automatic. IDK. Maybe, I am saying there is some math in there, I feel like it is realistically going to take at least 1-3 years without a team. And I dont have the money to pay for one or even at least pay someone else $10k to do everything. But if you want to, be my guest.
+I am currently living in a scifi-fantasy-minecraft mindset with this idea, but I have written out everything to feel that it is more or less complete and ready to be BUILT if the ai-models are aggreable. TYPICALLY they need to be encouraged in the prompt with something like 
+
+"MAKE A GAME ENGINE FROM :yadda yadda whatever the prompt I would put in here(a direct copy of any line i already wrote up)"
+Yes I have gotten some code to work, and come close to making a base-game-engine, It's just too tiresome for me atm to really digest the scope of the actual project.
