@@ -21,3 +21,6 @@ It will likely be very broken and at times not working or just plain wrong, beca
 7 And any additional chapters including notebooks which I might upload.
 
 I will try to keep it organized. I don't know what will come out of the AI-assisted Builds but it is based on the resources I wrote myself, and how the ai chooses to interpret them in OpenDevin.
+
+I am trying to use BOLT.new with Ollama because I am tired of OpenDevin. But I dunno if I can get it to work like I did with Opendevin. I am tired of thinking but I will find out sooner or later.
+By the way I calculated that the project at 100k lines with each having 4-8 attempts, or being broken up into a million prompts. Well that would take me like a year and a half to do if it was automatic. IDK. Maybe, I am saying there is some math in there, I feel like it is realistically going to take at least 1-3 years without a team. And I dont have the money to pay for one or even at least pay someone else $10k to do everything. But if you want to, be my guest.
