@@ -1,5 +1,16 @@
-OperatingSystem(Distro and Allocations/Hardware and Data-Processing)
-Drivers/Additional Toolkits/Network (Repo)
-Legacy(Game and Hooks)
+These are integral instances more or less some components may be shared:
+TEXTBUILD TEST/ALPHA BUILD:
+---1(new) --(updated with old stuff too)
+OperatingSystem(Allocations/Hardware and Data-Processing) (Core Development) (Distro)
+Drivers/Additional Toolkits/Network and BasePrograms/Recreational-Distribution (Repo)
+---2(old)
+Legacy(Game and Hooks, Domain Server-Tray/Browser RAM/MODULES/ABS accelerations and other FRAMEWORK additions)
 Virtual Legacy (Additional Graphics/Processing/Network Doorman)
-
+---
+Slightmore More advanced Stuff:
+---3
+Robitics and Drones Compiling with Environmental-Resource (DRONE/BULKHEAD and LABS/EXPO Survey/Assessment and Charter/Prospects)
+Logistics and PACKAGE Studio (Bulkhead)
+---4
+Starter-BROKER *(alpha mac and secure systems)
+Agent-Performance (AI Brain and POWER-System)
