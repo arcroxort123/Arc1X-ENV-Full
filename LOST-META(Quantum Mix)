@@ -117,3 +117,5 @@ EASYPIPELINE
 MARQUIS/LENS-QUO/RIBBON  
 EASY-SECTIONS/AUTOPARSE
 MODE : TAPERED/SEGEMENTED
+
+This is now used as a PRE-PROGRAMMED/CONFINED QUEBIT which is picked up by VOXEL-PROCS (the mainframe/modules can transfer/exchange this as profiled between their encodes/encryptions via context/settings and host-variables)
