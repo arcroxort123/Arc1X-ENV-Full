@@ -87,18 +87,22 @@ Mainframe + Virtualization
 ---
 TERMUXLanguage-CAM (21 total modes/permutes select/backroll)
 
-New Varaibles:
+New Varaibles: THESE OCCUR AS STEPS
+Step 1
 NetCard Integration to CAM
 A+B+C =  A=RAM B=SSD C=Card-Integrated A+B
 
+Step 2
 Permute H
 Image Broker / Bullion(AutoMounted)
 
+Step 3
 Permute I
 H Rotates into IMAGE-GEN
 Image-Nuke-GEN (autorender)
 Uses spinography/quillesence
 
+Step 4
 PERMUTE Q
 cross-rotates I
 (Q EOE Q) SOCK --AutoQUOTIENT
