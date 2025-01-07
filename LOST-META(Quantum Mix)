@@ -430,6 +430,11 @@ and that got really complicated and here we are trying to consolidate it all aga
 ---SO get ready for it everyone. (Also thansk for all the demoralization just saying)
 
 1/6/2025
+Found this thing: Its not mine but I made adjustments to it.
+The Framework: https://pastebin.com/P63Y5Td9
+Omniscript: https://pastebin.com/L5698qba
+Prompt: https://pastebin.com/CaJd5GQE
+
 This part is ENTIRELY optional but increases performance
 The prompt is adjusted to include a severe/defcon for subdomains.
 The subdomains are set as refiners to a model.
