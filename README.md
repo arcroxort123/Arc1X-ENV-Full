@@ -30,5 +30,3 @@ I am currently living in a scifi-fantasy-minecraft mindset with this idea, but I
 
 "MAKE A GAME ENGINE FROM :yadda yadda whatever the prompt I would put in here(a direct copy of any line i already wrote up)"
 Yes I have gotten some code to work, and come close to making a base-game-engine, It's just too tiresome for me atm to really digest the scope of the actual project.
-
-MetaCorridor is Matched to GhyrCorridor and achieves are Debug Template. This allows for easy pipeline/roadmap of any reference frame/article to be reconfigured/resolved for any sandbox extension point as well.
