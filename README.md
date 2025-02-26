@@ -30,3 +30,7 @@ I am currently living in a scifi-fantasy-minecraft mindset with this idea, but I
 
 "MAKE A GAME ENGINE FROM :yadda yadda whatever the prompt I would put in here(a direct copy of any line i already wrote up)"
 Yes I have gotten some code to work, and come close to making a base-game-engine, It's just too tiresome for me atm to really digest the scope of the actual project.
+
+
+ADVERTISED-PROMOTION-TEXT:
+DREAM TECHNOLOGY, SUPER INTELLIGENCE, BACKROOMS-LORE, SECRETS-OF-EVOLUTION/ and OTHER PARANORMAL/ESOTERIC INNOVATIONS/TRAINING
