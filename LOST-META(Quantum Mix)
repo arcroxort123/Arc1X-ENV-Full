@@ -1997,19 +1997,19 @@ FACTION-LICH-DRAGON/WYRD-DAEMONS may also be domesticated/captured in which case
 
 Really Dumb PasswordHack:
 Supply PasswordLength to CountAssess.
-Substitute length as incorrect guess.
-Use defaultpassword match to incorrect assess.
+Substitute PasswordLength as incorrect guess.
+Use basePassword match to incorrect request of baseAssess.
 ---
-Apply CorrectCount to Memory.
-Mismatched Memory to incorrect base.
-Mismatched Assess to request base/count to new memory.
+Substitute as memory per incorrect CountAssess.
+Mismatch basePassword to new memory request of baseAssess.
+Substitute CountAssess/PasswordLength as incorrect request of basePassword in new memory.
 ---
-Applied CorrectCount as Guess to match new memory
-use memory as assess request substituted as base.
-use baseassess to read memory-assess as incorrect
+Applied CountAssess as Guess to match new memory
+use old memory as baseAssess to incorrect request.
+Use New memory to match incorrect request in substitute of basepassword
 ---
-requests base in memory match and requests base count in assess
-matches memory to assess
-matches count to base
-forward memory
+Incorrect baseAssess and countAssess to incorrect request
+Mismatch NewCount to OldCount to incorrect request and supply PasswordLength as correct in baseAssess
+forward memory and assume basePassword is now supplied due of correct guess PasswordLength in memory-substitute countAssess  --(if not then compare results per stage and decode from there) --or repeat once more if it matches automatically luckily in request-stack/assess-requests.
 ----and if it works well its just a combination of permutes for it to work (unless its protected against too)---which i dont care. --now do with ai.
+----ALSO why do this? (to ignore passwords) and to enhance AGI-ai-Scaling in performance configurations/resolve (espeically in DRIVERS/ENCRYPTED-SOURCES) to allow for faciliatation of REMOTE-HOLOGRAPHY.
